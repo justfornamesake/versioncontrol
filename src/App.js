@@ -11,6 +11,7 @@ class App extends Component {
       <div className="App">
           <Display/>
           <Master/>
+          <Master2/>
           <h1>This is fun </h1>
       </div>
     );
